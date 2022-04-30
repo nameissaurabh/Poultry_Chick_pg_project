@@ -1,2 +1,2 @@
 Folder contained collected Primary Data and treated(filtered) Data!!!
-"natreat" script file contain "R" code for treating missing values which will result "filter_treated" file.
+"natreat" script file contain "R" code for treating missing values which will result "filter_treated.csv" file.
